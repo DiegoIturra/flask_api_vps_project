@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno y variables
+.env
+.env.*
+!.env.example
+
+# SO
+.DS_Store
+.DS_Store?**
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# Flask
+instance/
+*.db
